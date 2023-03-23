@@ -1,0 +1,15 @@
+label,input,button{
+  margin: 15px;
+  padding: 5px;
+}
+
+.login{
+  padding-top: 150px;
+}
+
+footer{
+  bottom:0;
+  position: absolute;
+  width:90%;
+  height: 40;
+}
